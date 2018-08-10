@@ -7,15 +7,16 @@ please do so! :)
 
 ### Friday
 
-|       | Piazza-1           | Piazza-2 | #Lab | #Workshop | #Meeting | #Telko-1 | #Blue | #Senf | Somewhere else |
-| :---  | :---               | :---     | :--- | :---      | :---     | :---     | :---  | :---  | :---           |
-| 11:00 |                    |          |      |           |          |          |       |       |                |
-| 12:00 |                    |          |      |           |          |          |       |       |                |
-| 13:00 | LUNCH              |          |      |           |          |          |       |       |                |
-| 14:00 |                    |          |      |           |          |          |       |       |                |
-| 15:00 |                    |          |      |           |          |          |       |       |                |
-| 16:00 |                    |          |      |           |          |          |       |       |                |
-| 17:00 | EVENING NEWS       |          |      |           |          |          |       |       |                |
-| 18:00 | EVENING ACTIVITIES |          |      |           |          |          |       |       |                |
+|       |                    | #Piazza-1                          | #Piazza-2 | #Lab | #Workshop | #Meeting | #Telko-1 | #Blue | #Senf | Somewhere else |
+| :---  | :---               | :---                               | :---      | :--- | :---      | :---     | :---     | :---  | :---  | :---           |
+| 10:00 | OPENING THE SPACE  |                                    |           |      |           |          |          |       |       |                |
+| 11:00 |                    | TNG Web 4.0                        |           |      |           |          |          |       |       |                |
+| 12:00 |                    | Web Assembly                       |           |      |           |          |          |       |       |                |
+| 13:00 | LUNCH              | Migrate webpack 1 to webpack 4     |           |      |           |          |          |       |       |                |
+| 14:00 |                    | Art & Technology                   |           |      |           |          |          |       |       |                |
+| 15:00 |                    | Web Audio API                      |           |      |           |          |          |       |       |                |
+| 16:00 |                    | Dev Tools with nodejs (discussion) |           |      |           |          |          |       |       |                |
+| 17:00 | EVENING NEWS       |                                    |           |      |           |          |          |       |       |                |
+| 18:00 | EVENING ACTIVITIES |                                    |           |      |           |          |          |       |       |                |
 
 ## Friday
