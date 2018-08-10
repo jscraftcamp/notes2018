@@ -7,16 +7,17 @@ please do so! :)
 
 ### Friday
 
-|       |                    | #Piazza-1                          | #Piazza-2 | #Lab | #Workshop | #Meeting | #Telko-1 | #Blue | #Senf | Somewhere else |
-| :---  | :---               | :---                               | :---      | :--- | :---      | :---     | :---     | :---  | :---  | :---           |
-| 10:00 | OPENING THE SPACE  |                                    |           |      |           |          |          |       |       |                |
-| 11:00 |                    | TNG Web 4.0                        |           |      |           |          |          |       |       |                |
-| 12:00 |                    | Web Assembly                       |           |      |           |          |          |       |       |                |
-| 13:00 | LUNCH              | Migrate webpack 1 to webpack 4     |           |      |           |          |          |       |       |                |
-| 14:00 |                    | Art & Technology                   |           |      |           |          |          |       |       |                |
-| 15:00 |                    | Web Audio API                      |           |      |           |          |          |       |       |                |
-| 16:00 |                    | Dev Tools with nodejs (discussion) |           |      |           |          |          |       |       |                |
-| 17:00 | EVENING NEWS       |                                    |           |      |           |          |          |       |       |                |
-| 18:00 | EVENING ACTIVITIES |                                    |           |      |           |          |          |       |       |                |
+|       |                    | #Piazza-1                          | #Piazza-2            | #Lab                      | #Workshop                                  | #Meeting                        | #Telko-1 | #Blue | #Senf | Somewhere else |
+| :---  | :---               | :---                               | :---                 | :---                      | :---                                       | :---                            | :---     | :---  | :---  | :---           |
+| 10:00 | OPENING THE SPACE  |                                    | Barbeque preparation |                           |                                            |                                 |          |       |       |                |
+| 11:00 |                    | TNG Web 4.0                        |                      | Culture Ownership         | Parcel                                     | Universal JavaScript pitfalls   |          |       |       |                |
+| 12:00 |                    | Web Assembly                       |                      | Inclusion in Tech         | GraphQL Apollo Client Offline              |                                 |          |       |       |                |
+| 13:00 | LUNCH              | Migrate webpack 1 to webpack 4     |                      |                           | Programming for Kids                       |                                 |          |       |       |                |
+| 14:00 |                    | Art & Technology                   |                      | Protractor in E2E Testing | Weird algebraic JS (as simple as possible) | Home IOT                        |          |       |       |                |
+| 15:00 |                    | Web Audio API                      |                      | End-to-End testing        | Vue.js (Components, Vuex, Transitions)     | Use React as Configuration Tool |          |       |       |                |
+| 16:00 |                    | Dev Tools with nodejs (discussion) |                      |                           | Web components from scratch                | TDD universal everywhere        |          |       |       |                |
+| 17:00 | EVENING NEWS       |                                    |                      |                           |                                            |                                 |          |       |       |                |
+| 18:00 | EVENING ACTIVITIES |                                    |                      |                           |                                            |                                 |          |       |       |                |
 
 ## Friday
+
