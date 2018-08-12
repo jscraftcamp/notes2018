@@ -3,7 +3,7 @@
 Let's try to get an overview over all sessions that happened at JSCC18. If someone has a repo or anything else to share,
 please do so! :)
 
-## Sessions
+## Session schedules
 
 ### Friday
 
@@ -33,7 +33,7 @@ please do so! :)
 | 17:00 | EVENING NEWS       | Closing the space                        |                      |                       |                                                                                    |                                 |                      |                            |       |                                             |
 | 18:00 | EVENING ACTIVITIES |                                          |                      |                       |                                                                                    |                                 |                      |                            |       |                                             |
 
-## Friday
+## Friday sessions
 
 ### Culture ownership
 
