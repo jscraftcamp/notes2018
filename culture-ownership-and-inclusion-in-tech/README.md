@@ -1,5 +1,7 @@
 # Culture ownership and inclusion in tech
 
+*Written by [@NarigoDF](https://twitter.com/NarigoDF).*
+
 The two talks were very related and the discussion happened to be about both topics.
 
 My take-aways for culture ownership:
