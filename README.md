@@ -51,6 +51,10 @@ See [./vuejs/](./vuejs/).
 
 See https://github.com/lukastaegert/rollup-web-app-intro.
 
+### TDD Universal Everywhere
+
+See [./tdd-universal-everywhere/](./tdd-universal-everywhere/).
+
 ## Saturday sessions
 
 ### Functional calisthenics
