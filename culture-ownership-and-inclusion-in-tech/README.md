@@ -1,5 +1,6 @@
 # Culture ownership and inclusion in tech
 
+*Sessions by Philip (culture) and Irena (inclusion).*
 *Written by [@NarigoDF](https://twitter.com/NarigoDF).*
 
 The two talks were very related and the discussion happened to be about both topics.
