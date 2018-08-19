@@ -63,6 +63,8 @@ See [./tdd-universal-everywhere/](./tdd-universal-everywhere/).
 
 ### Functional calisthenics
 
+*Session by Marco*
+
 Marco showed [rules for functional calisthenics](https://codurance.com/2017/10/12/functional-calisthenics/) and
 presented [the mars rover kata](https://codurance.com/2017/11/16/katas-for-functional-calisthenics/) to us. There were
 a couple of repositories linked via Twitter:
@@ -71,3 +73,13 @@ a couple of repositories linked via Twitter:
 - https://gist.github.com/shadybotros/558c1f844993a534ff1674462b6ba373
 - https://github.com/migerh/functional-mars-rover-kata
 - https://gist.github.com/FQ400/8c5623140db04f8245c71f1a9e7c9bc1
+
+### Shader Fun
+
+*Session by Marc.*
+*Written by [@NarigoDF](https://twitter.com/NarigoDF).*
+
+We've played around with his [shader-playground](https://github.com/SheepFromHeaven/shader-playground) repository and 
+later had a look at [shadertoy](https://www.shadertoy.com/). [The Eye demo](https://www.shadertoy.com/view/MsKBDG) is 
+still giving me nightmares as many vector values were more or less randomly edited, resulting in extremely strange 
+effects.
