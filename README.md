@@ -35,35 +35,46 @@ please do so! :)
 
 ## Friday sessions
 
+### Art & technology
+
+*Session by Jörn.*
+See [./art-technology/](./art-technology/).
+
+### Build a Web App with RollupJS + code splitting
+
+*Session by @lukastaegert.*
+
+See https://github.com/lukastaegert/rollup-web-app-intro.
+
 ### Culture ownership
+
+*Session by Philip.*
 
 See [./culture-ownership-and-inclusion-in-tech/](./culture-ownership-and-inclusion-in-tech/).
 
 ### Inclusion in tech
 
+*Session by Irena.*
+
 See [./culture-ownership-and-inclusion-in-tech/](./culture-ownership-and-inclusion-in-tech/).
-
-### Art & technology
-
-See [./art-technology/](./art-technology/).
-
-### Vue.js (Components, Vuex, Transitions)
-
-See [./vuejs/](./vuejs/).
-
-### Build a Web App with RollupJS + code splitting
-
-See https://github.com/lukastaegert/rollup-web-app-intro.
 
 ### TDD Universal Everywhere
 
+*Session by Tobi.*
+
 See [./tdd-universal-everywhere/](./tdd-universal-everywhere/).
+
+### Vue.js (Components, Vuex, Transitions)
+
+*Session by Vannsl.*
+
+See [./vuejs/](./vuejs/).
 
 ## Saturday sessions
 
 ### Functional calisthenics
 
-*Session by Marco*
+*Session by Marco.*
 
 Marco showed [rules for functional calisthenics](https://codurance.com/2017/10/12/functional-calisthenics/) and
 presented [the mars rover kata](https://codurance.com/2017/11/16/katas-for-functional-calisthenics/) to us. There were
@@ -76,7 +87,7 @@ a couple of repositories linked via Twitter:
 
 ### GraphQL wonderland
 
-*Session by Robert / @lowsky*
+*Session by Robert / @lowsky.*
 
 - [Artikel in t3n - Download](https://www.codecentric.de/publikation/schnittstellen-booster-graphql-als-alternative-zu-rest/)
 - [Demo](https://coolboard.netlify.com)
@@ -85,9 +96,5 @@ a couple of repositories linked via Twitter:
 ### Shader Fun
 
 *Session by Marc.*
-*Written by [@NarigoDF](https://twitter.com/NarigoDF).*
 
-We've played around with his [shader-playground](https://github.com/SheepFromHeaven/shader-playground) repository and 
-later had a look at [shadertoy](https://www.shadertoy.com/). [The Eye demo](https://www.shadertoy.com/view/MsKBDG) is 
-still giving me nightmares as many vector values were more or less randomly edited, resulting in extremely strange 
-effects.
+See [./shader-fun/](./shader-fun/).
