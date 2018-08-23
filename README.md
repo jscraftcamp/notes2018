@@ -12,7 +12,7 @@ please do so! :)
 | 10:00 | OPENING THE SPACE  |                                                | Barbeque preparation |                                                  |                                                                                        |                                                              |                                                          |                                                                                                                   |                           |                |
 | 11:00 |                    | TNG Web 4.0 Demo Preview (?)                   |                      | [Culture Ownership (Philip)](#culture-ownership) | Parcel (Jurek)                                                                         | Universal JavaScript pitfalls (Anna)                         |                                                          |                                                                                                                   | RegEx Crosswords (Marc)   |                |
 | 12:00 |                    | Web Assembly (Michael)                         |                      | [Inclusion in Tech (Irena)](#inclusion-in-tech)  | GraphQL Apollo Client Offline (Andi)                                                   |                                                              |                                                          |                                                                                                                   |                           |                |
-| 13:00 | LUNCH              | Migrate webpack 1 to webpack 4 (Daniel+Markus) |                      |                                                  | Programming for Kids (Florian)                                                         |                                                              |                                                          |                                                                                                                   |                           |                |
+| 13:00 | LUNCH              | Migrate webpack 1 to webpack 4 (Daniel+Markus) |                      |                                                  | [Programming for Kids (Florian)](#programming-for-kids)                                |                                                              |                                                          |                                                                                                                   |                           |                |
 | 14:00 |                    | [Art & Technology (Jörn)](#art-technology)     |                      | Protractor in E2E Testing (Christian)            | Weird algebraic JS (as simple as possible) (Daniel)                                    | Home IOT (Martin)                                            |                                                          | Loops must die (Marco)                                                                                            |                           |                |
 | 15:00 |                    | Web Audio API (Ulf)                            |                      | End-to-End testing (Ion)                         | [Vue.js (Components, Vuex, Transitions) (Vannsl)](#vue-js-components-vuex-transitions) | Use React as Configuration Tool (Philipp)                    | Performance of GIS Databases with Node.js (Aikos Polgár) | [Build a Web App with RollupJS + code splitting (@lukastaegert)](#build-a-web-app-with-rollupjs--code-splitting)  | The power of curry (Marc) |                |
 | 16:00 |                    | Dev Tools with nodejs (discussion) (Shady)     |                      |                                                  | Web components from scratch (Wolfram)                                                  | [TDD Universal Everywhere (Tobi)](#tdd-universal-everywhere) |                                                          | Lessons learned in 6 years of building and running nodejs services in ultra-scalable environments (Markus Ziller) | Ramda (Marc)              |                |
@@ -38,6 +38,7 @@ please do so! :)
 ### Art & technology
 
 *Session by Jörn.*
+
 See [./art-technology/](./art-technology/).
 
 ### Build a Web App with RollupJS + code splitting
@@ -57,6 +58,12 @@ See [./culture-ownership-and-inclusion-in-tech/](./culture-ownership-and-inclusi
 *Session by Irena.*
 
 See [./culture-ownership-and-inclusion-in-tech/](./culture-ownership-and-inclusion-in-tech/).
+
+### Programming for kids
+
+*Session by Florian.*
+
+See [./programming-for-kids/](./programming-for-kids/).
 
 ### TDD Universal Everywhere
 
